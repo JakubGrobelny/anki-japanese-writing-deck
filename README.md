@@ -5,7 +5,7 @@ Also see on AnkiWeb: https://ankiweb.net/shared/info/2132288273
 # What is this?
 
 This is an Anki deck for Japanese writing practice that allows you to practice drawing the characters.
-It contains hiragana, katakana and 2136 Jōyō Kanji. For every character the meaning and sample vocabulary are shown.
+It contains hiragana, katakana and 2136 Jōyō Kanji. For every character the meaning and sample vocabulary are shown. It is powered by [kakimashou.com](kakimashou.com).
 
 # How to Import This Deck into Anki
 
@@ -29,3 +29,6 @@ This effectively turns Anki into a custom kanji/kana learning app (as long as th
 
 Internet connection is required for it to work.
 
+I've created this because the kanji app I used to use wouldn't sync my progress after I switched to another phone. By using this deck you can keep your progress locally. The only downside is that it's dependent on an external service to work.
+
+![alt text](image.png)
