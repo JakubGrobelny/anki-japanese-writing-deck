@@ -14,7 +14,7 @@ control and transparency. To import it into Anki.
 
 To use this deck:
 1. Download the repository
-2. Install the CrowdAnki add-on
+2. Install the [CrowdAnki](https://github.com/Stvad/CrowdAnki) add-on
 3. Restart Anki
 4. File -> CrowdAnki: Import from disk
 5. Choose the folder containing the json file
